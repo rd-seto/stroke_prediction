@@ -60,6 +60,9 @@ stroke_data <- read.csv('path/to/your/data.csv')
 4. Confusion Matrix
 5. List of important features for stroke prediction
    
+   ![Alt text](https://github.com/rd-seto/stroke_prediction/blob/main/variable_importance_plot.png)
+   ![Alt text](https://github.com/rd-seto/stroke_prediction/blob/main/roc_curve_random_forest.png)
+
 #Further Improvements
 
 1. Experiment with additional preprocessing techniques
