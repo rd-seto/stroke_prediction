@@ -64,9 +64,6 @@ stroke_data <- read.csv('path/to/your/data.csv')
 3. Variable Importance Plot
 4. Confusion Matrix
 5. List of important features for stroke prediction
-   
-   ![Alt text](g)
-   ![Alt text]()
 
 #Further Improvements
 
