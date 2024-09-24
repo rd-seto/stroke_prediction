@@ -10,6 +10,11 @@ Model building
 Model evaluation
 The main objective is to predict the likelihood of stroke based on several health and demographic features.
 
+<div align="center">
+    <img src="https://github.com/rd-seto/stroke_prediction/blob/main/variable_importance_plot.png?raw=true" alt="Variable Importance Plot" width="300"/>
+    <img src="https://github.com/rd-seto/stroke_prediction/blob/main/roc_curve_random_forest.png?raw=true" alt="ROC Curve" width="300"/>
+</div>
+
 #Code Structure
 
 1. Preparation
@@ -60,8 +65,8 @@ stroke_data <- read.csv('path/to/your/data.csv')
 4. Confusion Matrix
 5. List of important features for stroke prediction
    
-   ![Alt text](https://github.com/rd-seto/stroke_prediction/blob/main/variable_importance_plot.png)
-   ![Alt text](https://github.com/rd-seto/stroke_prediction/blob/main/roc_curve_random_forest.png)
+   ![Alt text](g)
+   ![Alt text]()
 
 #Further Improvements
 
